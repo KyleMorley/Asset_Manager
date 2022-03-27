@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "Iphone",
+      "cost": "1",
+      "quantity": "1",
+      "id": 2
+    },
+    {
+      "asset": "Imac",
+      "cost": "2000",
+      "quantity": "1",
+      "id": 3
+    },
+    {
+      "asset": "Keyboard",
+      "cost": "10",
+      "quantity": "4",
+      "id": 4
+    }
+  ]
+}
